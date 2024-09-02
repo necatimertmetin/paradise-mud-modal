@@ -28,9 +28,9 @@ Import the Modal component into your React application and configure it as neede
 ```bash
 import React, { useState } from 'react';
 import Modal from 'paradise-mud-modal';
-import 'paradise-mud-modal/dist/paradise-mud-modal.css'; // Modal bileşeni için temel CSS stil dosyası
-import 'paradise-mud-modal/dist/paradise-mud-modal-dark.css'; // Karanlık tema için CSS stil dosyası
-import 'paradise-mud-modal/dist/paradise-mud-modal-light.css'; // Aydınlık tema için CSS stil dosyası
+import 'paradise-mud-modal/src/paradise-mud-modal.css'; // Modal bileşeni için temel CSS stil dosyası
+import 'paradise-mud-modal/src/paradise-mud-modal-dark.css'; // Karanlık tema için CSS stil dosyası
+import 'paradise-mud-modal/src/paradise-mud-modal-light.css'; // Aydınlık tema için CSS stil dosyası
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(false);
