@@ -50,6 +50,6 @@
   },
   "files": [
     "dist",
-    "dist/*.css"
+    "src"
   ]
 }
