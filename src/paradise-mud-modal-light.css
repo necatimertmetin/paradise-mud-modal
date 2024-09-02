@@ -1,0 +1,64 @@
+/* Light Theme */
+.paradise-mud-modal.light {
+    background-color: #fff;
+    color: #000000;
+  }
+  
+  .paradise-mud-modal-footer.light {
+    background-color: #f3f3f3;
+    color: #000000;
+  }
+  
+  .paradise-mud-modal-button.light {
+    background-color: #d1d1d1;
+    color: #000000;
+  }
+  
+  .paradise-mud-modal-button.light:hover {
+    background-color: #c1c1c1;
+  }
+  
+  .paradise-mud-modal-button.light:active {
+    background-color: #b1b1b1;
+  }
+  
+  .paradise-mud-modal-button.primary.light {
+    background-color: #005fb8;
+    color: #ffffff;
+  }
+  
+  .paradise-mud-modal-button.primary.light:hover {
+    background-color: #004a87;
+  }
+  
+  .paradise-mud-modal-button.primary.light:active {
+    background-color: #003c70;
+  }
+  
+  .paradise-mud-modal-button.secondary.light {
+    background-color: #fdfdfd;
+    border: 1px solid #cfcfcf;
+    color: #333;
+  }
+  
+  .paradise-mud-modal-button.secondary.light:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .paradise-mud-modal-button.secondary.light:active {
+    background-color: #e0e0e0;
+  }
+  
+  .paradise-mud-modal-button.tertiary.light {
+    background-color: transparent;
+    color: #333;
+  }
+  
+  .paradise-mud-modal-button.tertiary.light:hover {
+    color: #444;
+  }
+  
+  .paradise-mud-modal-button.tertiary.light:active {
+    color: #555;
+  }
+  
